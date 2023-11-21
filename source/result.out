@@ -1,0 +1,10 @@
+main.cu(92): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(111): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(92): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(111): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+input size: 131072
+pagefault number is 9215
