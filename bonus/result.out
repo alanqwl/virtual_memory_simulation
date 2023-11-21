@@ -1,0 +1,18 @@
+In file included from main.cu:4:0:
+/usr/local/cuda/bin/../targets/x86_64-linux/include/device_functions.h:54:2: warning: #warning "device_functions.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+ #warning "device_functions.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+  ^
+main.cu(126): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(146): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+In file included from main.cu:4:0:
+/usr/local/cuda/bin/../targets/x86_64-linux/include/device_functions.h:54:2: warning: #warning "device_functions.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+ #warning "device_functions.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+  ^
+main.cu(126): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(146): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+input size: 131072
+pagefault number is 32772
